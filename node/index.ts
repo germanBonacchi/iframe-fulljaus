@@ -4,7 +4,7 @@ export default new Service({
   graphql: {
     resolvers: {
       Query: {
-        helloworld: () => `Service number: ${Math.random()}`,
+        helloworld: () => `Numero de Servicio: ${Math.random()}`,
       },
     },
   },
