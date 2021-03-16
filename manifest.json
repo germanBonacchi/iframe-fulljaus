@@ -1,16 +1,14 @@
 {
   "vendor": "gbonacchi",
-  "name": "admin-sandbox",
+  "name": "iframe-fulljaus",
   "version": "0.0.0",
-  "title": "Admin Sandbox",
-  "description": "Admin Sandbox",
+  "title": "Iframe Fulljaus",
+  "description": "Iframe Fulljaus",
   "builders": {
     "react": "3.x",
     "messages": "1.x",
     "docs": "0.x",
-    "admin": "0.x",
-    "node": "6.x",
-    "graphql": "1.x"
+    "admin": "0.x"
   },
   "dependencies": {
     "vtex.styleguide": "9.x"

@@ -1,15 +1,6 @@
 {
-  "section": "orders",
-  "titleId": "admin-example.navigation.label",
-  "searchKeyWordsHelpers": "admin-example.navigation.search.kws",
-  "subSectionItems": [
-    {
-      "labelId": "admin-example.navigation.insight",
-      "path": "/admin/iotraining"
-    },
-    {
-      "labelId": "admin-example.navigation.management",
-      "path": "/admin/otheriotraining"
-    }
-  ]
+  "section": "marketplace",
+  "titleId": "iframe-fulljaus.navigation.label",
+  "path": "/admin/iframe-fulljaus",
+  "searchKeyWordsHelpers": "iframe-fulljaus.navigation.search.kws"
 }

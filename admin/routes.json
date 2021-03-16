@@ -1,10 +1,6 @@
 {
   "admin.app.example": {
-    "component": "adminExample",
-    "path": "/admin/app/iotraining"
-  },
-  "admin.app.otherexample": {
-    "component": "adminOtherExample",
-    "path": "/admin/app/otheriotraining"
+    "component": "iframe-fulljaus",
+    "path": "/admin/app/iframe-fulljaus"
   }
 }

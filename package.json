@@ -1,6 +1,6 @@
 {
   "version": "0.0.0",
-  "name": "admin-sandbox",
+  "name": "iframe-fulljaus",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
@@ -40,5 +40,6 @@
     "lint-staged": "^10.5.1",
     "prettier": "^2.2.0",
     "typescript": "^3.9.6"
-  }
+  },
+  "dependencies": {}
 }
